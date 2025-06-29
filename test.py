@@ -1,1 +1,1 @@
-printfjh("How are you sir!!  Nirmal Sir how you are feeling you got the offer letter Super job")
+print("How are you sir!!  Nirmal Sir how you are feeling you got the offer letter Super job")
